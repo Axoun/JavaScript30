@@ -7,4 +7,4 @@ Personal take on the javascript30 Course.
 Site web : [https://JavaScript30.com](https://JavaScript30.com)
 
 
-Day 1 : Wednesday February 8
+Day 1 : Wednesday February 8 - Challenge 1 Complete
